@@ -1,6 +1,5 @@
 - 👋 Hi, I’m shahad 
 - 👀 I’m interested in Data Science & AI 
-- 🌱 I’m currently learning Machine Learning 
 - 📫 Email: shahadbaroud20@gmail.com
 
 <!---
