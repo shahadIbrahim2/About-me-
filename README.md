@@ -1,5 +1,5 @@
 - 👋 Hi, I’m shahad 
-- 👀 I’m interested in Data Science & AI 
+- 👀 I’m interested in AI & IoT 
 - 📫 Email: shahadbaroud20@gmail.com
 
 <!---
